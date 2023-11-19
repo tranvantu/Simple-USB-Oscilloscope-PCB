@@ -14,5 +14,3 @@ https://github.com/tranvantu/Simple-USB-Oscilloscope <br>
 ## Liên hệ
 tranvantu.tvt@gmail.com
 <br>
-+84914220760
-
